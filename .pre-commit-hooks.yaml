@@ -1,0 +1,5 @@
+-   id: cfn_nag
+    name: stelligent cfn_nag
+    description: The cfn-nag tool looks for patterns in CloudFormation templates that may indicate insecure infrastructure.
+    entry: cfn_nag
+    language: ruby
